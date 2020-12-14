@@ -67,7 +67,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Padding(padding: EdgeInsets.all(width * 0.048),
             ),
             _buildStep(width, '1. 문제를 잘 읽고 질문에 답하세'),
-            _buildStep(width, '2. MBTI퀴즈로 이루어져 있으며 3문제 입니다'),
+            _buildStep(width, '2. MBTI퀴즈로 이루어져 있으며 3문제 입니'),
             _buildStep(width, '3. 제한 시간은 없습니다'),
             Padding(padding: EdgeInsets.all(width * 0.048),
             ),
@@ -110,3 +110,6 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
+
+
+//TESTTESTTESTTESTTESTTEST
